@@ -47,6 +47,9 @@ a.	whatis cmdname
 b.	cmdname  --help
 c.	man cmdname
 16.	Create directories under your home directory (your username),use cd cmd to navigate thru them
+
+![Directory tree](https://github.com/user-attachments/assets/7fc787ba-2e1f-4cd4-8e81-1032fec862d8)
+
  
 
 
