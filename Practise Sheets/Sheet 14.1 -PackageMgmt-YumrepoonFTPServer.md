@@ -27,7 +27,7 @@ sudo cp /path/to/your/rpms/*.rpm /var/ftp/pub/yumrepo/
 ```
 
 ### Step 4: Create Repository Metadata
-Navigate to the YUM repository directory and create the repository metadata using `createrepo`.
+Navigate to the YUM repository directory and create the repository metadata using `createrepo_c`.
 
 ```bash
 cd /var/ftp/pub/yumrepo
